@@ -1,1 +1,5 @@
 getwd()
+
+print(
+  'learn R'
+)
